@@ -1,0 +1,5 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr7\bin\Debug\nr7.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr7\bin\Debug\nr7.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr7\bin\Debug\nr7.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr7\obj\Debug\nr7.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr7\obj\Debug\nr7.pdb

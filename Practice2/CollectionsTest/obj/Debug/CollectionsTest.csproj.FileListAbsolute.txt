@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\CollectionsTest\bin\Debug\CollectionsTest.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\CollectionsTest\bin\Debug\CollectionsTest.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\CollectionsTest\bin\Debug\CollectionsTest.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\CollectionsTest\obj\Debug\CollectionsTest.csprojResolveAssemblyReference.cache
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\CollectionsTest\obj\Debug\CollectionsTest.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\CollectionsTest\obj\Debug\CollectionsTest.pdb

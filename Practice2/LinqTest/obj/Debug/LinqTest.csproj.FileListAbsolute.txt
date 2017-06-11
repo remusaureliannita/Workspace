@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\LinqTest\bin\Debug\LinqTest.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\LinqTest\bin\Debug\LinqTest.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\LinqTest\bin\Debug\LinqTest.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\LinqTest\obj\Debug\LinqTest.csprojResolveAssemblyReference.cache
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\LinqTest\obj\Debug\LinqTest.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\LinqTest\obj\Debug\LinqTest.pdb

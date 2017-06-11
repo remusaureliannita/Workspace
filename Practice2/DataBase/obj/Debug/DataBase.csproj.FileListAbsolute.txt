@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\DataBase\bin\Debug\DataBase.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\DataBase\bin\Debug\DataBase.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\DataBase\obj\Debug\DataBase.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\DataBase\obj\Debug\DataBase.pdb

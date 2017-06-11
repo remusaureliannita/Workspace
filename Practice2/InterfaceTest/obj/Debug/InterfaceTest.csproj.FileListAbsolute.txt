@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\InterfaceTest\bin\Debug\InterfaceTest.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\InterfaceTest\bin\Debug\InterfaceTest.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\InterfaceTest\bin\Debug\InterfaceTest.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\InterfaceTest\obj\Debug\InterfaceTest.csprojResolveAssemblyReference.cache
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\InterfaceTest\obj\Debug\InterfaceTest.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\InterfaceTest\obj\Debug\InterfaceTest.pdb

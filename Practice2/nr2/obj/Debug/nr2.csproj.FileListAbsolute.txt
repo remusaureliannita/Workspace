@@ -1,0 +1,6 @@
+c:\users\remus\documents\visual studio 2015\Projects\Practice2\nr2\bin\Debug\nr2.exe.config
+c:\users\remus\documents\visual studio 2015\Projects\Practice2\nr2\bin\Debug\nr2.exe
+c:\users\remus\documents\visual studio 2015\Projects\Practice2\nr2\bin\Debug\nr2.pdb
+c:\users\remus\documents\visual studio 2015\Projects\Practice2\nr2\obj\Debug\nr2.csprojResolveAssemblyReference.cache
+c:\users\remus\documents\visual studio 2015\Projects\Practice2\nr2\obj\Debug\nr2.exe
+c:\users\remus\documents\visual studio 2015\Projects\Practice2\nr2\obj\Debug\nr2.pdb

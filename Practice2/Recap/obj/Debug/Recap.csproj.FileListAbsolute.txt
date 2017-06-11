@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Recap\bin\Debug\Recap.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Recap\bin\Debug\Recap.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Recap\bin\Debug\Recap.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Recap\obj\Debug\Recap.csprojResolveAssemblyReference.cache
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Recap\obj\Debug\Recap.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Recap\obj\Debug\Recap.pdb

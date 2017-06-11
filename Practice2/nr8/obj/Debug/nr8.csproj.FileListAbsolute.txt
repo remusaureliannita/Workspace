@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr8\bin\Debug\nr8.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr8\bin\Debug\nr8.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr8\bin\Debug\nr8.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr8\obj\Debug\nr8.csprojResolveAssemblyReference.cache
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr8\obj\Debug\nr8.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\nr8\obj\Debug\nr8.pdb

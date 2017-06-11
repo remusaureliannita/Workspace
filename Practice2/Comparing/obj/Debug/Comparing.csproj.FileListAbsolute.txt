@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Comparing\bin\Debug\Comparing.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Comparing\bin\Debug\Comparing.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Comparing\bin\Debug\Comparing.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Comparing\obj\Debug\Comparing.csprojResolveAssemblyReference.cache
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Comparing\obj\Debug\Comparing.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Comparing\obj\Debug\Comparing.pdb

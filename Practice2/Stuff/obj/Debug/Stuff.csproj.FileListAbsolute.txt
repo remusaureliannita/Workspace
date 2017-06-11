@@ -1,0 +1,6 @@
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Stuff\bin\Debug\Stuff.exe.config
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Stuff\bin\Debug\Stuff.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Stuff\bin\Debug\Stuff.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Stuff\obj\Debug\Stuff.exe
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Stuff\obj\Debug\Stuff.pdb
+C:\Users\REMUS\Documents\Visual Studio 2015\Projects\Practice2\Stuff\obj\Debug\Stuff.csprojResolveAssemblyReference.cache
